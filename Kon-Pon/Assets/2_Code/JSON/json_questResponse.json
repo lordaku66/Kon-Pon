@@ -1,0 +1,22 @@
+{
+    "midquest":
+    [
+        {
+            "id": 0,
+            "message": "How's the box hunt commin?",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        }
+    ],
+    "postquest":
+    [
+        {
+            "id": 0,
+            "message": "That should do it! Alright, boss is just up ahead. Lets go!",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "template": [
+        {
+            "id": 0,
+            "kana": "",
+            "english": "Look to the <c=yellow>Tokei</c> to quantify the present",
+            "romaji": "",
+            "answer": "Clock"
+        },
+        {
+            "id": 1,
+            "kana": "",
+            "english": "Festival of light and <c=yellow>Toro!",
+            "romaji": "",
+            "answer": "Lantern"
+        },
+        {
+            "id": 2,
+            "kana": "",
+            "english": "The <c=yellow>Hi</c> smoulders & burns",
+            "romaji": "",
+            "answer": "Fire"
+        }
+    ],
+    "first": [
+        {
+            "id": 0,
+            "kana": "mukashikara <c=yellow>提灯</c> shi は watashitachi と kurashiteita.",
+            "english": "mukashikara <c=yellow>lantern</c> shi は watashitachi と kurashiteita.",
+            "romaji": "mukashikara <c=yellow>chochin</c> shi は watashitachi と kurashiteita.",
+            "answer": "Clock"
+        },
+        {
+            "id": 1,
+            "kana": "<c=yellow>他</c>の<c=yellow>精霊</c> の tasukeyaku として ninmu を okona'teita",
+            "english": "<c=yellow>They</c> の <c=yellow>other</c> の tasukeyaku として ninmu を okona'teita",
+            "romaji": "<c=yellow>hoka</c> の <c=yellow>youkai</c> の tasukeyaku として ninmu を okona'teita",
+            "answer": "Other"
+        },
+        {
+            "id": 2,
+            "kana": "そして karera の ninmu は、<c=yellow>お祭り</c> に <c=yellow>自分</c> たち の <c=yellow>火</c> を sasageru ことだった。",
+            "english": "そして karera の ninmu は、<c=yellow>festival</c> に <c=yellow>they</c> たち の <c=yellow>fire</c> を sasageru ことだった。",
+            "romaji": "そして karera の ninmu は、<c=yellow>omatsuri</c> に <c=yellow>jibunn</c> たち の <c=yellow>hi</c> を sasageru ことだった。",
+            "answer": "Fire"
+        }
+    ]
+}

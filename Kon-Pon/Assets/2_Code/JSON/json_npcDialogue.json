@@ -1,0 +1,281 @@
+{
+    "TEMPLATE": [
+        {
+            "id": 0,
+            "message": "Woohoo!",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        }
+    ],
+    "test_npc": [
+        {
+            "id": 0,
+            "message": "<c=424242>やー！私のnamaeはSusumu！kimiは？えーてか,kimiはなに？</c>",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 1,
+            "message": "<c=424242>どうやってhaite kitano？kabe demo tonnda</c>",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 2,
+            "message": "<c=424242>demo chi'chai karana、muridarouna~</c>",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 3,
+            "message": "Oh, I don't think i introduced myself. My name is Susumu!",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 4,
+            "message": "I help old Boss tend to this shrine, by sweeping around and stuff. But enough about me, what are you?!",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 5,
+            "message": "You dont look like any spirit I've seen before. Like a paper tube with a little flame inside!  <w>Weeeeeiiiird</w>. ",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 6,
+            "message": "Oh, I know! Boss is ancient, like literally ancient. He might just know what you are! Come on!",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 7,
+            "message": "Wait... I got some work to still finish and boss is kinda cranky if I don't finish my rounds.",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 8,
+            "message": "I know this is impolite but can you bring me a <c=ffbb00>Hako</c>?",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 9,
+            "message": "I don't know the translation but they're <b><c=ffbb00>SQUARE</c></b> and made of <c=ffbb00><b>CARDBOARD</b></c>",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 10,
+            "message": "I think there was a stack of 'em in the storeroom",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 11,
+            "message": "Just one will do for now. If you find a pile of them, just walk up to them and <b>PRESS 'E'</b>, then bring it back to me!",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 12,
+            "message": "Find me a <c=ffbb00>Hako</c> and I’m sure Boss will answer any question ya got!",
+            "questTrigger": true,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        }
+    ],
+    "karuta": [
+        {
+            "id": 0,
+            "message": "Ah, hello Susumu. Have you finished your - ",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 1,
+            "message": "Sure did boss, but that's not important right now!",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": "<color=#FFC825>Susumu"
+        },
+        {
+            "id": 2,
+            "message": "I met a new weird spirit in the garden!",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 3,
+            "message": "<w=3Dwave>He's small, adorable, and really great at carrying boxes and -</w>",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 4,
+            "message": "Susumu...",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": "<color=#6BFA83>Owari"
+        },
+        {
+            "id": 5,
+            "message": "What? The job is still done!",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": "<color=#FFC825>Susumu"
+        },
+        {
+            "id": 6,
+            "message": "*Sigh* Well, what is this spirit -",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": "<color=#6BFA83>Owari"
+        },
+        {
+            "id": 7,
+            "message": "I dunno! He's like a weird paper tube thing with fire comming outta his head",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": "<color=#FFC825>Susumu"
+        },
+        {
+            "id": 8,
+            "message": "Oh...Well, where is he?",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": "<color=#6BFA83>Owari"
+        },  
+        {
+            "id": 9,
+            "message": "Well, right here!",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": "<color=#FFC825>Susumu"
+        },
+        {
+            "id": 10,
+            "message": "Also, he doesn't understand most of what we're saying right now. Try English",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 11,
+            "message": "Oh, thank the heavens.",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": "<color=#6BFA83>Owari"
+        },
+        {
+            "id": 12,
+            "message": "Hello little one. What brings you to this shrine -?",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 13,
+            "message": "Oh, forgot to mention that. They don't know what they are either. They figured you could help",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": "<color=#FFC825>Susumu"
+        },
+        {
+            "id": 14,
+            "message": "...",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": "<color=#6BFA83>Owari"
+        },
+        {
+            "id": 15,
+            "message": "Thank you, Susumu",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 16,
+            "message": "Anyway, welcome little spirit! ",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 17,
+            "message": "I am Owari, the caretaker of this shrine, and I do have some of the answers you seek.",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 18,
+            "message": "But first, have a seat.",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": ""
+        },
+        {
+            "id": 19,
+            "message": "Oh no. come on boss not this again.",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": "<color=#FFC825>Susumu"
+        },
+        {
+            "id": 20,
+            "message": "Susumu please. Its been <i>ages</i> since I've played someone else.",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": "<color=#6BFA83>Owari"
+        },
+        {
+            "id": 21,
+            "message": "'cuz its so <i>booooring!</i>",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": "<color=#FFC825>Susumu"
+        },
+        {
+            "id": 22,
+            "message": "So spirit, would you like to <b>play Karuta?</b>",
+            "questTrigger": false,
+            "karutaGame": -1,
+            "newSpeaker": "<color=#6BFA83>Owari"
+        },
+        {
+            "id": 23,
+            "message": "",
+            "questTrigger": false,
+            "karutaGame": 0,
+            "newSpeaker": ""
+        }
+    ],
+    "mush": 
+    [
+        {
+            "id": 0,
+            "message": "I am a Mushroom, that is all."
+        }
+    ]
+}

@@ -1,0 +1,3144 @@
+fileFormatVersion: 2
+guid: a6e68cca0d5681b4081e9e39bb0f0990
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7357590038739596978
+    second: 2d_label_bonfire_ol_0
+  - first:
+      213: 2650837938069278507
+    second: 2d_label_bonfire_ol_1
+  - first:
+      213: -4020591468884830837
+    second: 2d_label_bonfire_ol_2
+  - first:
+      213: -4476354575628825241
+    second: 2d_label_bonfire_ol_3
+  - first:
+      213: 7657916410948407629
+    second: 2d_label_bonfire_ol_4
+  - first:
+      213: -1935226459078430017
+    second: 2d_label_bonfire_ol_5
+  - first:
+      213: -3496902264069179967
+    second: 2d_label_bonfire_ol_6
+  - first:
+      213: -8265533077728167022
+    second: 2d_label_bonfire_ol_7
+  - first:
+      213: -4527853200550451269
+    second: 2d_label_bonfire_ol_8
+  - first:
+      213: -4685257260010338355
+    second: 2d_label_bonfire_ol_9
+  - first:
+      213: 1851588057358492073
+    second: 2d_label_bonfire_ol_10
+  - first:
+      213: 818431111749679536
+    second: 2d_label_bonfire_ol_11
+  - first:
+      213: -1523550113864278715
+    second: 2d_label_bonfire_ol_12
+  - first:
+      213: 6813980396138869459
+    second: 2d_label_bonfire_ol_13
+  - first:
+      213: -6938070614593374391
+    second: 2d_label_bonfire_ol_14
+  - first:
+      213: -3372117574029835379
+    second: 2d_label_bonfire_ol_15
+  - first:
+      213: -4425859865407099789
+    second: 2d_label_bonfire_ol_16
+  - first:
+      213: -2524488329486682166
+    second: 2d_label_bonfire_ol_17
+  - first:
+      213: -7366301995719633384
+    second: 2d_label_bonfire_ol_18
+  - first:
+      213: 4079066689237424384
+    second: 2d_label_bonfire_ol_19
+  - first:
+      213: -4552939202302026082
+    second: 2d_label_bonfire_ol_20
+  - first:
+      213: 998217919307486643
+    second: 2d_label_bonfire_ol_21
+  - first:
+      213: 781764411683461391
+    second: 2d_label_bonfire_ol_22
+  - first:
+      213: -3134453358439309737
+    second: 2d_label_bonfire_ol_23
+  - first:
+      213: 1785618444460642160
+    second: 2d_label_bonfire_ol_24
+  - first:
+      213: -8975097979621727185
+    second: 2d_label_bonfire_ol_25
+  - first:
+      213: 8884700217179550486
+    second: 2d_label_bonfire_ol_26
+  - first:
+      213: -7244481102101766895
+    second: 2d_label_bonfire_ol_27
+  - first:
+      213: -7912289671007155637
+    second: 2d_label_bonfire_ol_28
+  - first:
+      213: -3179652034268246680
+    second: 2d_label_bonfire_ol_29
+  - first:
+      213: -7095769984053383407
+    second: 2d_label_bonfire_ol_30
+  - first:
+      213: 7433705166097917789
+    second: 2d_label_bonfire_ol_31
+  - first:
+      213: 2948807785401962264
+    second: 2d_label_bonfire_ol_32
+  - first:
+      213: -7123140111304830060
+    second: 2d_label_bonfire_ol_33
+  - first:
+      213: 300554426168307857
+    second: 2d_label_bonfire_ol_34
+  - first:
+      213: 2771184354008912995
+    second: 2d_label_bonfire_ol_35
+  - first:
+      213: 6316488328726739026
+    second: 2d_label_bonfire_ol_36
+  - first:
+      213: 3679736396117659753
+    second: 2d_label_bonfire_ol_37
+  - first:
+      213: -8587740428036445060
+    second: 2d_label_bonfire_ol_38
+  - first:
+      213: -8173830020589241167
+    second: 2d_label_bonfire_ol_39
+  - first:
+      213: -3907122682582946920
+    second: 2d_label_bonfire_ol_40
+  - first:
+      213: -119661133562636088
+    second: 2d_label_bonfire_ol_41
+  - first:
+      213: -1995284831033364019
+    second: 2d_label_bonfire_ol_42
+  - first:
+      213: -4043673256477953261
+    second: 2d_label_bonfire_ol_43
+  - first:
+      213: 1838209478050385607
+    second: 2d_label_bonfire_ol_44
+  - first:
+      213: -2653639149119653578
+    second: 2d_label_bonfire_ol_45
+  - first:
+      213: 5565220837982883515
+    second: 2d_label_bonfire_ol_46
+  - first:
+      213: 7490233234575203374
+    second: 2d_label_bonfire_ol_47
+  - first:
+      213: 4866647323832744261
+    second: 2d_label_bonfire_ol_48
+  - first:
+      213: -5693191150377426821
+    second: 2d_label_bonfire_ol_49
+  - first:
+      213: -1571005547437546913
+    second: 2d_label_bonfire_ol_50
+  - first:
+      213: -8464094598456730800
+    second: 2d_label_bonfire_ol_51
+  - first:
+      213: -7956941808305601629
+    second: 2d_label_bonfire_ol_52
+  - first:
+      213: -9052844446218046018
+    second: 2d_label_bonfire_ol_53
+  - first:
+      213: 6365713318179117468
+    second: 2d_label_bonfire_ol_54
+  - first:
+      213: -7131543754364468403
+    second: 2d_label_bonfire_ol_55
+  - first:
+      213: -8103575475407798101
+    second: 2d_label_bonfire_ol_56
+  - first:
+      213: 7609892815870669647
+    second: 2d_label_bonfire_ol_57
+  - first:
+      213: 1930749627344690750
+    second: 2d_label_bonfire_ol_58
+  - first:
+      213: 4931313460637639129
+    second: 2d_label_bonfire_ol_59
+  - first:
+      213: 2063886696567628735
+    second: 2d_label_bonfire_ol_60
+  - first:
+      213: -1597251049082311217
+    second: 2d_label_bonfire_ol_61
+  - first:
+      213: 3536109039191438054
+    second: 2d_label_bonfire_ol_62
+  - first:
+      213: 934686152380404698
+    second: 2d_label_bonfire_ol_63
+  - first:
+      213: -1169520212118129778
+    second: 2d_label_bonfire_ol_64
+  - first:
+      213: 3498654287254561265
+    second: 2d_label_bonfire_ol_65
+  - first:
+      213: 4039133264496185610
+    second: 2d_label_bonfire_ol_66
+  - first:
+      213: 91495691580274434
+    second: 2d_label_bonfire_ol_67
+  - first:
+      213: -1993031591200854317
+    second: 2d_label_bonfire_ol_68
+  - first:
+      213: 7728916793618194862
+    second: 2d_label_bonfire_ol_69
+  - first:
+      213: -1690890254664215593
+    second: 2d_label_bonfire_ol_70
+  - first:
+      213: 6874279562241199056
+    second: 2d_label_bonfire_ol_71
+  - first:
+      213: 3744575490400429738
+    second: 2d_label_bonfire_ol_72
+  - first:
+      213: -1292638847426896394
+    second: 2d_label_bonfire_ol_73
+  - first:
+      213: -8808763277732593322
+    second: 2d_label_bonfire_ol_74
+  - first:
+      213: 6336960753634365159
+    second: 2d_label_bonfire_ol_75
+  - first:
+      213: 7202263641439772688
+    second: 2d_label_bonfire_ol_76
+  - first:
+      213: -5606686705886409303
+    second: 2d_label_bonfire_ol_77
+  - first:
+      213: 1173444614384303608
+    second: 2d_label_bonfire_ol_78
+  - first:
+      213: 6364315641632034151
+    second: 2d_label_bonfire_ol_79
+  - first:
+      213: -7782919110799017786
+    second: 2d_label_bonfire_ol_80
+  - first:
+      213: -5561024458553414424
+    second: 2d_label_bonfire_ol_81
+  - first:
+      213: 9214691289300580703
+    second: 2d_label_bonfire_ol_82
+  - first:
+      213: -8576935942829207499
+    second: 2d_label_bonfire_ol_83
+  - first:
+      213: 2600707467419032829
+    second: 2d_label_bonfire_ol_84
+  - first:
+      213: 2476477028316166201
+    second: 2d_label_bonfire_ol_85
+  - first:
+      213: -3458782636891270499
+    second: 2d_label_bonfire_ol_86
+  - first:
+      213: -7635479629505574678
+    second: 2d_label_bonfire_ol_87
+  - first:
+      213: -3020631881250390506
+    second: 2d_label_bonfire_ol_88
+  - first:
+      213: -7773927667174720323
+    second: 2d_label_bonfire_ol_89
+  - first:
+      213: 2210175599158880484
+    second: 2d_label_bonfire_ol_90
+  - first:
+      213: -186914237296503752
+    second: 2d_label_bonfire_ol_91
+  - first:
+      213: 832684085969415339
+    second: 2d_label_bonfire_ol_92
+  - first:
+      213: 7284728560056088912
+    second: 2d_label_bonfire_ol_93
+  - first:
+      213: -1728789899045516963
+    second: 2d_label_bonfire_ol_94
+  - first:
+      213: 2720070693534879524
+    second: 2d_label_bonfire_ol_95
+  - first:
+      213: -5949152237220747404
+    second: 2d_label_bonfire_ol_96
+  - first:
+      213: -3195325452838146764
+    second: 2d_label_bonfire_ol_97
+  - first:
+      213: -8844695921465833263
+    second: 2d_label_bonfire_ol_98
+  - first:
+      213: 8630114370635334218
+    second: 2d_label_bonfire_ol_99
+  - first:
+      213: 3900136845616604243
+    second: 2d_label_bonfire_ol_100
+  - first:
+      213: -2815333597088693296
+    second: 2d_label_bonfire_ol_101
+  - first:
+      213: -5074780531177427302
+    second: 2d_label_bonfire_ol_102
+  - first:
+      213: -8376036003376540090
+    second: 2d_label_bonfire_ol_103
+  - first:
+      213: -1891368228002073853
+    second: 2d_label_bonfire_ol_104
+  - first:
+      213: -777521807318154386
+    second: 2d_label_bonfire_ol_105
+  - first:
+      213: 2204008848779446329
+    second: 2d_label_bonfire_ol_106
+  - first:
+      213: -5533302149314935955
+    second: 2d_label_bonfire_ol_107
+  - first:
+      213: -7356539769819943324
+    second: 2d_label_bonfire_ol_108
+  - first:
+      213: -3157639251569732878
+    second: 2d_label_bonfire_ol_109
+  - first:
+      213: 4051648665134813242
+    second: 2d_label_bonfire_ol_110
+  - first:
+      213: -5248409640284703088
+    second: 2d_label_bonfire_ol_111
+  - first:
+      213: -2715294577189828012
+    second: 2d_label_bonfire_ol_112
+  - first:
+      213: 4716781032228120943
+    second: 2d_label_bonfire_ol_113
+  - first:
+      213: 3950244383890837645
+    second: 2d_label_bonfire_ol_114
+  - first:
+      213: -3767845895243528422
+    second: 2d_label_bonfire_ol_115
+  - first:
+      213: 9092649501452255030
+    second: 2d_label_bonfire_ol_116
+  - first:
+      213: 8057436688755063957
+    second: 2d_label_bonfire_ol_117
+  - first:
+      213: -167727409078123655
+    second: 2d_label_bonfire_ol_118
+  - first:
+      213: 6526941269300699989
+    second: 2d_label_bonfire_ol_119
+  - first:
+      213: -8394445003035041044
+    second: 2d_label_bonfire_ol_120
+  - first:
+      213: 5033677987798174134
+    second: 2d_label_bonfire_ol_121
+  - first:
+      213: 6842462381534747171
+    second: 2d_label_bonfire_ol_122
+  - first:
+      213: 7699851807240347736
+    second: 2d_label_bonfire_ol_123
+  - first:
+      213: -1060008765114125049
+    second: 2d_label_bonfire_ol_124
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4949f987d694e990800000000000000
+      internalID: -7357590038739596978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f8fb75f0ba9c420800000000000000
+      internalID: 2650837938069278507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85572e6c5df338c0800000000000000
+      internalID: -4020591468884830837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d03feea3bc0e1c0800000000000000
+      internalID: -4476354575628825241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41d6320762664a60800000000000000
+      internalID: 7657916410948407629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb271bae9c1b425e0800000000000000
+      internalID: -1935226459078430017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5b5ef0be1887fc0800000000000000
+      internalID: -3496902264069179967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b75ce557dea4d80800000000000000
+      internalID: -8265533077728167022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb72312f085d921c0800000000000000
+      internalID: -4527853200550451269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc783c7785f9afeb0800000000000000
+      internalID: -4685257260010338355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1653d278922b910800000000000000
+      internalID: 1851588057358492073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b7f882c6ab5b00800000000000000
+      internalID: 818431111749679536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d1d995e334bdae0800000000000000
+      internalID: -1523550113864278715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2355a711f109e50800000000000000
+      internalID: 6813980396138869459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947f596198507bf90800000000000000
+      internalID: -6938070614593374391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d838913cee4d331d0800000000000000
+      internalID: -3372117574029835379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c60c0d6ef2492c0800000000000000
+      internalID: -4425859865407099789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7b3595d3737fcd0800000000000000
+      internalID: -2524488329486682166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81651ecfc53a5c990800000000000000
+      internalID: -7366301995719633384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0091023ca81cb9830800000000000000
+      internalID: 4079066689237424384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e56d20be5b0d0c0800000000000000
+      internalID: -4552939202302026082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b590c8a8e16add00800000000000000
+      internalID: 998217919307486643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f095f68279269da00800000000000000
+      internalID: 781764411683461391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ed13d074f2084d0800000000000000
+      internalID: -3134453358439309737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f467eb38ac7c810800000000000000
+      internalID: 1785618444460642160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24225c80fb027380800000000000000
+      internalID: -8975097979621727185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613b2dc36cbcc4b70800000000000000
+      internalID: 8884700217179550486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d913f02de667b90800000000000000
+      internalID: -7244481102101766895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a40af1776e13290800000000000000
+      internalID: -7912289671007155637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dc714425b9fd3d0800000000000000
+      internalID: -3179652034268246680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f6e946bc2c68d90800000000000000
+      internalID: -7095769984053383407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_31
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57a04e8673d92760800000000000000
+      internalID: 7433705166097917789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_32
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f4acfae054ce820800000000000000
+      internalID: 2948807785401962264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_33
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493d65c0fc5852d90800000000000000
+      internalID: -7123140111304830060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_34
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190fe6f78a8cb2400800000000000000
+      internalID: 300554426168307857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36452d3dc79357620800000000000000
+      internalID: 2771184354008912995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_36
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25878a53baca8a750800000000000000
+      internalID: 6316488328726739026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_37
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9605ba591cc011330800000000000000
+      internalID: 3679736396117659753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_38
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c60ab949732d880800000000000000
+      internalID: -8587740428036445060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_39
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcba5037e8b09e80800000000000000
+      internalID: -8173830020589241167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_40
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ba5cafe9c17c9c0800000000000000
+      internalID: -3907122682582946920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_41
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8149045d0e65ef0800000000000000
+      internalID: -119661133562636088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_42
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1f78484035f44e0800000000000000
+      internalID: -1995284831033364019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_43
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31372e7f89cf1e7c0800000000000000
+      internalID: -4043673256477953261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_44
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce03f1f7c1a28910800000000000000
+      internalID: 1838209478050385607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_45
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63937a2e0416c2bd0800000000000000
+      internalID: -2653639149119653578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_46
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe4298cdd2ab3d40800000000000000
+      internalID: 5565220837982883515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_47
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c1eaf1177a2f760800000000000000
+      internalID: 7490233234575203374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_48
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549f728d4fdc98340800000000000000
+      internalID: 4866647323832744261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_49
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b702b5300d8bdf0b0800000000000000
+      internalID: -5693191150377426821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_50
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5221d437caa23ae0800000000000000
+      internalID: -1571005547437546913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_51
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b1fa1bece798a80800000000000000
+      internalID: -8464094598456730800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_52
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a38d714593439190800000000000000
+      internalID: -7956941808305601629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_53
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb53e40b0f5dd5280800000000000000
+      internalID: -9052844446218046018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_54
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c991a00398e875850800000000000000
+      internalID: 6365713318179117468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_55
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4343fc6dbaa70d90800000000000000
+      internalID: -7131543754364468403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_56
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba040c92a015a8f80800000000000000
+      internalID: -8103575475407798101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_57
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43b4c47235cb9960800000000000000
+      internalID: 7609892815870669647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_58
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e19187e866bca10800000000000000
+      internalID: 1930749627344690750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_59
+      rect:
+        serializedVersion: 2
+        x: 7552
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1a869177b8f6440800000000000000
+      internalID: 4931313460637639129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_60
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3619df30664ac10800000000000000
+      internalID: 2063886696567628735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_61
+      rect:
+        serializedVersion: 2
+        x: 7808
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd245a22ac65d9e0800000000000000
+      internalID: -1597251049082311217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_62
+      rect:
+        serializedVersion: 2
+        x: 7936
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2bd00af68c21130800000000000000
+      internalID: 3536109039191438054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_63
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad35c197a1ca8fc00800000000000000
+      internalID: 934686152380404698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_64
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e833f0f309705cfe0800000000000000
+      internalID: -1169520212118129778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_65
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1a4bf9987bd8030800000000000000
+      internalID: 3498654287254561265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_66
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0152c6cd42ed0830800000000000000
+      internalID: 4039133264496185610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_67
+      rect:
+        serializedVersion: 2
+        x: 8576
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207fe13c8de054100800000000000000
+      internalID: 91495691580274434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_68
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de675cc3545754e0800000000000000
+      internalID: -1993031591200854317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_69
+      rect:
+        serializedVersion: 2
+        x: 8832
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1e92ecfd0a24b60800000000000000
+      internalID: 7728916793618194862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_70
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3d198a540c888e0800000000000000
+      internalID: -1690890254664215593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_71
+      rect:
+        serializedVersion: 2
+        x: 9088
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db4d1227d8566f50800000000000000
+      internalID: 6874279562241199056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_72
+      rect:
+        serializedVersion: 2
+        x: 9216
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6a3f3a19767f330800000000000000
+      internalID: 3744575490400429738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_73
+      rect:
+        serializedVersion: 2
+        x: 9344
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fddf3421df9f0ee0800000000000000
+      internalID: -1292638847426896394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_74
+      rect:
+        serializedVersion: 2
+        x: 9472
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6514e30487cf0c580800000000000000
+      internalID: -8808763277732593322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_75
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eec7f31b3861f750800000000000000
+      internalID: 6336960753634365159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_76
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010aab66f9493f360800000000000000
+      internalID: 7202263641439772688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_77
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad4cb0852c0132b0800000000000000
+      internalID: -5606686705886409303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_78
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdb8fbd8a9e84010800000000000000
+      internalID: 1173444614384303608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_79
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d80f14b57925850800000000000000
+      internalID: 6364315641632034151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_80
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8b93ded448df390800000000000000
+      internalID: -7782919110799017786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_81
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec2aa0f7b543d2b0800000000000000
+      internalID: -5561024458553414424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_82
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b5a5f7e821ef70800000000000000
+      internalID: 9214691289300580703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_83
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530926ad33a98f880800000000000000
+      internalID: -8576935942829207499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_84
+      rect:
+        serializedVersion: 2
+        x: 10752
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc973899a1971420800000000000000
+      internalID: 2600707467419032829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_85
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938333f7cb63e5220800000000000000
+      internalID: 2476477028316166201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_86
+      rect:
+        serializedVersion: 2
+        x: 11008
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d929ec4648fefffc0800000000000000
+      internalID: -3458782636891270499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_87
+      rect:
+        serializedVersion: 2
+        x: 11136
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8c6914bb3590690800000000000000
+      internalID: -7635479629505574678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_88
+      rect:
+        serializedVersion: 2
+        x: 11264
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eb9d8de4f8416d0800000000000000
+      internalID: -3020631881250390506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_89
+      rect:
+        serializedVersion: 2
+        x: 11392
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc387889f57d1490800000000000000
+      internalID: -7773927667174720323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_90
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8e9175ffe1cae10800000000000000
+      internalID: 2210175599158880484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_91
+      rect:
+        serializedVersion: 2
+        x: 11648
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8349a72dd72f76df0800000000000000
+      internalID: -186914237296503752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_92
+      rect:
+        serializedVersion: 2
+        x: 11776
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bace352b3c94e8b00800000000000000
+      internalID: 832684085969415339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_93
+      rect:
+        serializedVersion: 2
+        x: 11904
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059394b770e881560800000000000000
+      internalID: 7284728560056088912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_94
+      rect:
+        serializedVersion: 2
+        x: 12032
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59cb101fba1208e0800000000000000
+      internalID: -1728789899045516963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_95
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fc81c52e1afb520800000000000000
+      internalID: 2720070693534879524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_96
+      rect:
+        serializedVersion: 2
+        x: 12288
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477acb96f8d507da0800000000000000
+      internalID: -5949152237220747404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_97
+      rect:
+        serializedVersion: 2
+        x: 12416
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d61d12e6ce7a3d0800000000000000
+      internalID: -3195325452838146764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_98
+      rect:
+        serializedVersion: 2
+        x: 12544
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8ceaeabe3514580800000000000000
+      internalID: -8844695921465833263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_99
+      rect:
+        serializedVersion: 2
+        x: 12672
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4286b8bb4354c770800000000000000
+      internalID: 8630114370635334218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_100
+      rect:
+        serializedVersion: 2
+        x: 12800
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354e36a1cc1102630800000000000000
+      internalID: 3900136845616604243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_101
+      rect:
+        serializedVersion: 2
+        x: 12928
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d34e4d720dede8d0800000000000000
+      internalID: -2815333597088693296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_102
+      rect:
+        serializedVersion: 2
+        x: 13056
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ee9168ef1c299b0800000000000000
+      internalID: -5074780531177427302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_103
+      rect:
+        serializedVersion: 2
+        x: 13184
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646dbd012a752cb80800000000000000
+      internalID: -8376036003376540090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_104
+      rect:
+        serializedVersion: 2
+        x: 13312
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303f9761e9280c5e0800000000000000
+      internalID: -1891368228002073853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_105
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e638ea52900b535f0800000000000000
+      internalID: -777521807318154386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_106
+      rect:
+        serializedVersion: 2
+        x: 13568
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9380151ee56369e10800000000000000
+      internalID: 2204008848779446329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_107
+      rect:
+        serializedVersion: 2
+        x: 13696
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d638d2b0303c533b0800000000000000
+      internalID: -5533302149314935955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_108
+      rect:
+        serializedVersion: 2
+        x: 13824
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e29d35e0258e990800000000000000
+      internalID: -7356539769819943324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_109
+      rect:
+        serializedVersion: 2
+        x: 13952
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f21b51a4dfcd24d0800000000000000
+      internalID: -3157639251569732878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_110
+      rect:
+        serializedVersion: 2
+        x: 14080
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30db009ef85a3830800000000000000
+      internalID: 4051648665134813242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_111
+      rect:
+        serializedVersion: 2
+        x: 14208
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096381b4d37e927b0800000000000000
+      internalID: -5248409640284703088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_112
+      rect:
+        serializedVersion: 2
+        x: 14336
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a4e02e7f5515ad0800000000000000
+      internalID: -2715294577189828012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_113
+      rect:
+        serializedVersion: 2
+        x: 14464
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e145bb5f557140800000000000000
+      internalID: 4716781032228120943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_114
+      rect:
+        serializedVersion: 2
+        x: 14592
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d809bcd765612d630800000000000000
+      internalID: 3950244383890837645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_115
+      rect:
+        serializedVersion: 2
+        x: 14720
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1788950f1ce5bbc0800000000000000
+      internalID: -3767845895243528422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_116
+      rect:
+        serializedVersion: 2
+        x: 14848
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fb131fb849f2e70800000000000000
+      internalID: 9092649501452255030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_117
+      rect:
+        serializedVersion: 2
+        x: 14976
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cf1717af3c1df60800000000000000
+      internalID: 8057436688755063957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_118
+      rect:
+        serializedVersion: 2
+        x: 15104
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9734dc26fcc1cadf0800000000000000
+      internalID: -167727409078123655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_119
+      rect:
+        serializedVersion: 2
+        x: 15232
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5536182d08a549a50800000000000000
+      internalID: 6526941269300699989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_120
+      rect:
+        serializedVersion: 2
+        x: 15360
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce22b83deb0f08b80800000000000000
+      internalID: -8394445003035041044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_121
+      rect:
+        serializedVersion: 2
+        x: 15488
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9c968d5773bd540800000000000000
+      internalID: 5033677987798174134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_122
+      rect:
+        serializedVersion: 2
+        x: 15616
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a1a58784f45fe50800000000000000
+      internalID: 6842462381534747171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_123
+      rect:
+        serializedVersion: 2
+        x: 15744
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850e5b15c6e5bda60800000000000000
+      internalID: 7699851807240347736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2d_label_bonfire_ol_124
+      rect:
+        serializedVersion: 2
+        x: 15872
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7057290f4a71a41f0800000000000000
+      internalID: -1060008765114125049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
